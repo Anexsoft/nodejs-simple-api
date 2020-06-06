@@ -1,0 +1,17 @@
+{
+  "name": "kodoti-user-api",
+  "version": "1.0.0",
+  "description": "proyecto kodoti api",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Douglas Narváez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
